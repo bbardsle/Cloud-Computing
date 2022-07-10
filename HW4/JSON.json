@@ -1,0 +1,42 @@
+[
+    {
+        "product name": "Celery",
+        "id": 1,
+        "price": 2.00,
+        "description": "Fresh Celery stalks",
+        "url": "celery.html",
+        "thumbnailUrl": "celerythumbnail.jpg"
+    },
+    {
+        "product name": "Green Peppers",
+        "id": 2,
+        "price": 1.62,
+        "description": "Delicious green peppers",
+        "url": "greenpeppers.html",
+        "thumbnailUrl": "greenpepperthumbnail.jpg"
+    },
+    {
+        "product name": "Mushrooms",
+        "id": 3,
+        "price": 2.08,
+        "description": "Fresh-cut mushrooms by the pound",
+        "url": "mushroom.html",
+        "thumbnailUrl": "mushroomthumbnail.jpg"
+    },
+    {
+        "product name": "Spinach",
+        "id": 4,
+        "price": 1.89,
+        "description": "16oz baby spinach leaves",
+        "url": "spinach.html",
+        "thumbnailUrl": "spinachthumbnail.jpg"
+    },
+    {
+        "product name": "Lettuce",
+        "id": 4,
+        "price": 2.07,
+        "description": "Fresh lettuce",
+        "url": "lettuce.html",
+        "thumbnailUrl": "lettucethumbnail.jpg"
+    }
+]
