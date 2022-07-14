@@ -1,0 +1,50 @@
+[
+    {
+        "product_name": "Luffy plushie",
+        "id": 1,
+        "price": 25.00,
+        "description": "The King of the Pirates plushie!",
+        "url": "luffy.html",
+        "thumbnailUrl": "luffythumbnail.jpg"
+    },
+    {
+        "product_name": "Zoro Plush",
+        "id": 2,
+        "price": 25.99,
+        "description": "Cheeky swordsman plushie with no sense of directions.",
+        "url": "zoro.html",
+        "thumbnailUrl": "zorothumbnail.jpg"
+    },
+    {
+        "product_name": "Chopper Plush",
+        "id": 3,
+        "price": 30.00,
+        "description": "Probably the cutest plushie you'll ever see.",
+        "url": "chopper.html",
+        "thumbnailUrl": "chopperthumbnail.jpg"
+    },
+    {
+        "product_name": "Nami Plush",
+        "id": 4,
+        "price": 19.89,
+        "description": "A thief plushie.. kinda cute though.",
+        "url": "nami.html",
+        "thumbnailUrl": "namithumbnail.jpg"
+    },
+    {
+        "product_name": "Sanji Plush",
+        "id": 5,
+        "price": 20.47,
+        "description": "Do you smell good food?? I DO.",
+        "url": "sanji.html",
+        "thumbnailUrl": "sanjithumbnail.jpg"
+    },
+    {
+        "product_name": "Usopp Plush",
+        "id": 5,
+        "price": 10.07,
+        "description": "A very soft long-nosed plushie.",
+        "url": "usopp.html",
+        "thumbnailUrl": "usoppthumbnail.jpg"
+    }
+]
